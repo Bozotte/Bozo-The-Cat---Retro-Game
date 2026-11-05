@@ -518,7 +518,7 @@ export default function App() {
                 </span>
               </div>
               <p className="text-xs font-mono-ibm text-gray-500 uppercase tracking-wider mt-0.5">
-                {lang === 'fr' ? 'Le studio Miaou 8-bit de Bozo le chat 🐾' : "Bozo the Cat's 8-bit Miaou beatbox 🐾"}
+                {lang === 'fr' ? 'Le studio Miaou 🐾' : "The Miaou Beatbox Studio 🐾"}
               </p>
             </div>
           </div>
@@ -911,10 +911,10 @@ export default function App() {
         <footer className="border-t border-black/20 pt-4 pb-8 flex flex-wrap items-center justify-between text-xs font-mono-ibm text-gray-500">
           <div className="flex items-center gap-2">
             <span>🐾</span>
-            <span>{lang === 'fr' ? 'Dédié à tous les chats mélomanes et beatmakers 8-bit' : 'Made for feline music lovers and 8-bit beatmakers'}</span>
+            <span>{lang === 'fr' ? 'Spéciale kassdédie à toustes les chat.te.s mélomanes et beatmakeureuses de la street' : 'Special shout-out to all feline music lovers and street beatmakers'}</span>
           </div>
           <div>
-            <span>Web Audio • Tone.js • Miaou Synthesis</span>
+            <span>YuzuBoz • Miaou Prod • </span>
           </div>
         </footer>
 
